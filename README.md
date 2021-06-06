@@ -13,14 +13,12 @@ If you have not watched A Beautiful Mind, it is recommended that you do. It is n
 
 Here is a link to the deleted scene from the movie where John Nash comes up with a new Game of Go later known as Hex: https://www.youtube.com/watch?v=pTZ3nn2Bge4. Hex is a strategy board game for two players played on a hexagonal grid, theoretically of any size and several possible shapes, but traditionally as an 11×11 rhombus. Players alternate placing markers or stones on unoccupied spaces in an attempt to link their opposite sides of the board in an unbroken chain. One player must win; there are no draws. The game has a deep strategy, sharp tactics and a profound mathematical underpinning related to the Brouwer fixed-point theorem.
 
-                                            ![image](https://user-images.githubusercontent.com/68895316/120931939-2be71980-c70d-11eb-994e-5e83fac3c736.png)
-
+![image](https://user-images.githubusercontent.com/68895316/120931963-49b47e80-c70d-11eb-884e-be715c0d427e.png)
 
 The main goal of the game is to connect two opposite sides of the board by creating an unbroken chain of hexes. To get a better understanding of the game you can play it here against your friends an AI Player. Here is a link to the game: http://www.lutanho.net/play/hex.html
 
 Features:
-
-    *)- AI player which play intelligent against human player.                                                                                                                       *)- Minimax algorithm is used for AI Player.
+1)- AI player which play intelligent against human player.                                                                                                                       2)- Minimax algorithm is used for AI Player.
 
 
 # Conclusion:
