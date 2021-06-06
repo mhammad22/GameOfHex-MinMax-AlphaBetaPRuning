@@ -17,7 +17,7 @@ Here is a link to the deleted scene from the movie where John Nash comes up with
 
 The main goal of the game is to connect two opposite sides of the board by creating an unbroken chain of hexes. To get a better understanding of the game you can play it here against your friends an AI Player. Here is a link to the game: http://www.lutanho.net/play/hex.html
 
-Features:
+# Features:
 1)- AI player which play intelligent against human player.                                                                                                                       2)- Minimax algorithm is used for AI Player.
 
 
